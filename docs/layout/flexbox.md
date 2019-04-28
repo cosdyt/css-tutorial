@@ -288,6 +288,7 @@ div {
 ```
 
 该属性有两个快捷值：`auto` (代表`1 1 auto`) 和 none (代表`0 0 auto`)。
+`flex:1` 代表 `1 1 0%`
 
 ### 4.6 align-self 属性
 
